@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Login Page</title>
+    <title>Login Page For Jenkins</title>
 </head>
 <body>
     <h2>Login</h2>
